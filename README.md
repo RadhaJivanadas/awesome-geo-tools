@@ -1,4 +1,4 @@
-# Awesome GEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome GEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Generative Engine Optimization tools, compared on what they actually do. Which AI engines each one tracks, how often it refreshes, what it costs, and whether you can get the data out.
 
@@ -111,6 +111,7 @@ A different question from visibility: not "does AI mention me" but "does AI even
 
 - **[Cloudflare AI Crawl Control](https://www.cloudflare.com/)**, per-bot visibility and control, free on existing plans.
 - **[Cairrot-Inc/cloudflare-ai-crawler-tracker](https://github.com/Cairrot-Inc/cloudflare-ai-crawler-tracker)**, self-hosted edge worker if you want the raw log.
+- **[Firm Beacon AI Crawler Access Checker](https://www.firmbeacon.co.uk/tools/ai-crawler-check)**, a free one-page checker for robots.txt rules affecting AI search, training and content-use crawlers. It reports matching rules for each named bot; it does not test firewall access, indexing or citations.
 - **[Scrunch](https://scrunch.com/)** includes crawler-level analytics alongside its monitoring.
 - **Your own access logs**, which nobody sells you and which contain the answer.
 
