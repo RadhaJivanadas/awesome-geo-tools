@@ -1,4 +1,4 @@
-﻿# Awesome GEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Generative Engine Optimization tools, compared on what they actually do. Which AI engines each one tracks, how often it refreshes, what it costs, and whether you can get the data out.
 
